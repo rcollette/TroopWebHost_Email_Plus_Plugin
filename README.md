@@ -2,4 +2,4 @@
 
 ### A Chrome plugin for TroopWebHost.com that adds email recipient typeahead functionality.
 
-For now this repository is for filing issues.
+For now this repository is for filing issues and discussion.
